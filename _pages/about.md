@@ -19,7 +19,7 @@ selected_papers: false
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Francesco Fortunato, a recent graduate holding a Master's degree in Engineering in Computer Science from Sapienza Università di Roma. I commenced my academic journey with a Bachelor's degree in Computer and Automation Engineering from the same esteemed institution.
+I am Francesco Fortunato, a recent graduate holding a Master's degree in Engineering in Computer Science from [Sapienza Università di Roma](https://www.uniroma1.it/). I commenced my academic journey with a Bachelor's degree in Computer and Automation Engineering from the same esteemed institution.
 
 My areas of expertise and interest include the Internet of Things (IoT), telecommunications, software development, machine learning, and artificial intelligence. I am passionate about devising innovative solutions and addressing complex challenges through the application of advanced coding techniques.
 
