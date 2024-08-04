@@ -53,10 +53,7 @@
       "startDate": "2016-01-01",
       "endDate": "2018-12-31",
       "summary": "Worked as a cinema attendant and usher, assisting customers, selling tickets, and snacks.",
-      "highlights": [
-        "Ushering and assisting customers",
-        "Selling tickets and snacks"
-      ]
+      "highlights": ["Ushering and assisting customers", "Selling tickets and snacks"]
     }
   ],
   "education": [
@@ -95,55 +92,32 @@
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Python",
-        "Java",
-        "JavaScript",
-        "Kotlin",
-        "HTML"
-      ]
+      "keywords": ["C", "C++", "Python", "Java", "JavaScript", "Kotlin", "HTML"]
     },
     {
       "name": "Web Development",
       "level": "",
-      "keywords": [
-        "Back-end Development",
-        "Node.js",
-        "RESTful Services"
-      ]
+      "keywords": ["Back-end Development", "Node.js", "RESTful Services"]
     },
     {
       "name": "Cloud Computing",
       "level": "",
-      "keywords": [
-        "Amazon Web Services",
-        "Google Cloud"
-      ]
+      "keywords": ["Amazon Web Services", "Google Cloud"]
     },
     {
       "name": "Databases",
       "level": "",
-      "keywords": [
-        "SQL",
-        "NoSQL"
-      ]
+      "keywords": ["SQL", "NoSQL"]
     },
     {
       "name": "DevOps",
       "level": "",
-      "keywords": [
-        "Docker",
-        "Git"
-      ]
+      "keywords": ["Docker", "Git"]
     },
     {
       "name": "Other",
       "level": "",
-      "keywords": [
-        "Internet of Things"
-      ]
+      "keywords": ["Internet of Things"]
     }
   ],
   "languages": [
@@ -162,32 +136,19 @@
     {
       "name": "Technology",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Development",
-        "IoT"
-      ]
+      "keywords": ["Artificial Intelligence", "Machine Learning", "Software Development", "IoT"]
     },
     {
       "name": "Programming",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Web Development",
-        "Cloud Computing",
-        "DevOps"
-      ]
+      "keywords": ["Web Development", "Cloud Computing", "DevOps"]
     }
   ],
   "projects": [
     {
       "name": "PaaT - Pet as a Thing",
       "summary": "An IoT-based pet tracking system utilizing an ESP32 Heltec LoRa v2 and GPS module to track pets' movements. This system allows pet owners to monitor their pets' location, view their movement history, and receive alerts when they leave a designated area.",
-      "highlights": [
-        "IoT-based tracking",
-        "ESP32 Heltec LoRa v2",
-        "GPS Module"
-      ],
+      "highlights": ["IoT-based tracking", "ESP32 Heltec LoRa v2", "GPS Module"],
       "startDate": "",
       "endDate": "",
       "url": "https://github.com/francesco-fortunato/PaaT"
@@ -195,10 +156,7 @@
     {
       "name": "Laser-Based Collision Avoidance System",
       "summary": "A sophisticated collision avoidance system for robotic applications, developed as part of my Bachelor's thesis. The system enhances robot safety and prevents collisions using laser-based technology.",
-      "highlights": [
-        "Advanced collision avoidance",
-        "Laser-based technology"
-      ],
+      "highlights": ["Advanced collision avoidance", "Laser-based technology"],
       "startDate": "",
       "endDate": "",
       "url": "https://github.com/francesco-fortunato/Laser-Based-Collision-Avoidance-System"
