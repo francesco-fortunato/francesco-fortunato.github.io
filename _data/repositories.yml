@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - francesco-fortunato
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - francesco-fortunato/GEVIS
+  - francesco-fortunato/DQN-breakout
+  - francesco-fortunato/PaaT
+  - francesco-fortunato/FLAMEX  
+  - francesco-fortunato/Augmented-Reality-Interior-Design-Android
+  - francesco-fortunato/Laser-Based-Collision-Avoidance-System
+  - francesco-fortunato/PlaceAdvisor 

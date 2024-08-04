@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Science Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Via Monte Sant'Angelo, 19</p>
+    <p>Castrovillari, Cosenza, Italy</p>
+    <p>+39 348 304 4377</p>
+    <p><a href="mailto:francesco.fortunato1999@gmail.com">francesco.fortunato1999@gmail.com</a></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Francesco Fortunato, a recent graduate holding a Master's degree in Engineering in Computer Science from [Sapienza Università di Roma](https://www.uniroma1.it/). I commenced my academic journey with a Bachelor's degree in Computer and Automation Engineering from the same esteemed institution.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My areas of expertise and interest include the Internet of Things (IoT), telecommunications, software development, machine learning, and artificial intelligence. I am passionate about devising innovative solutions and addressing complex challenges through the application of advanced coding techniques.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At present, I am dedicated to further enhancing my skill set, engaging in diverse projects, and staying abreast of emerging technologies. Through both academic research and practical projects, I continuously strive to expand my knowledge and capabilities.
+
+---
