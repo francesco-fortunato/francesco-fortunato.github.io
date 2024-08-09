@@ -1,8 +1,9 @@
 ---
+page_id: project_4
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: projeto 4
+description: outro sem imagem
+img:
 importance: 3
 category: fun
 ---
