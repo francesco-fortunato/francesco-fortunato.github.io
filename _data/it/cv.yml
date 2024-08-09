@@ -1,0 +1,101 @@
+- title: Informazioni Generali
+  type: map
+  contents:
+    - name: Nome Completo
+      value: Francesco Fortunato
+    - name: Titolo
+      value: Dottore Magistrale in Ingegneria Informatica
+    - name: Data di Nascita
+      value: 14 Agosto 1999
+    - name: Email
+      value: francesco.fortunato1999@gmail.com
+    - name: Telefono
+      value: +39 348 304 4377
+    - name: Sito Web
+      value: https://francesco-fortunato.github.io
+    - name: Indirizzo
+      value: Via Monte Sant'Angelo, 19, 87012 Castrovillari, Cosenza, Italia
+    - name: Lingue
+      value: Italiano (Madrelingua), Inglese (B1)
+
+- title: Istruzione
+  type: time_table
+  contents:
+    - title: Laurea Magistrale in Ingegneria Informatica
+      institution: Sapienza Università di Roma, Roma, Italia
+      year: 2022 - 2025
+      description:
+        - Descrizione: In corso
+    - title: Laurea Triennale in Ingegneria Informatica e Automatica
+      institution: Sapienza Università di Roma, Roma, Italia
+      year: 2018 - 2022
+      description:
+        - Punteggio: 100/110
+    - title: Diploma di Maturità Classica
+      institution: Liceo Classico 'G. Garibaldi', Castrovillari, CS, Italia
+      year: 2013 - 2018
+      description:
+        - Punteggio: 100/100
+
+- title: Esperienze Lavorative
+  type: time_table
+  contents:
+    - title: Presidente di Seggio Elettorale
+      institution: Elezioni Europee, Roma, Italia
+      year: 2024-06-08 - 2024-06-09
+      description:
+        - Ho servito come Presidente del seggio elettorale durante le Elezioni Europee a Roma.
+    - title: Segretario di Seggio Elettorale
+      institution: Elezioni Comunali, Castrovillari, Italia
+      year: 2020-09-20 - 2020-09-21
+      description:
+        - Ho servito come Segretario del seggio elettorale durante le Elezioni Comunali a Castrovillari.
+    - title: Addetto al Cinema / Maschera
+      institution: Cinema Atomic Cafè, Castrovillari, Italia
+      year: 2016-01-01 - 2018-12-31
+      description:
+        - Assistenza ai clienti
+        - Vendita di biglietti e snack
+
+- title: Progetti
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/francesco-fortunato/PaaT">PaaT - Pet as a Thing</a>
+      year: [Anno di avvio se disponibile]
+      description:
+        - Un sistema di monitoraggio per animali domestici basato su IoT, che utilizza un ESP32 Heltec LoRa v2 e un modulo GPS per tracciare i movimenti degli animali. Questo sistema consente ai proprietari di monitorare la posizione dei loro animali, visualizzare la cronologia dei movimenti e ricevere avvisi quando escono da un'area designata.
+    - title: <a href="https://github.com/francesco-fortunato/Laser-Based-Collision-Avoidance-System">Sistema di Evitamento delle Collisioni basato su Laser</a>
+      year: [Anno di avvio se disponibile]
+      description:
+        - Un sofisticato sistema di evitamento delle collisioni per applicazioni robotiche, sviluppato come parte della mia tesi di laurea triennale. Il sistema migliora la sicurezza del robot e previene le collisioni utilizzando la tecnologia laser.
+
+- title: Competenze
+  type: list
+  contents:
+    - name: Linguaggi di Programmazione
+      keywords: ["C", "C++", "Python", "Java", "JavaScript", "Kotlin", "HTML"]
+    - name: Sviluppo Web
+      keywords: ["Sviluppo Back-end", "Node.js", "Servizi RESTful"]
+    - name: Cloud Computing
+      keywords: ["Amazon Web Services", "Google Cloud"]
+    - name: Basi di Dati
+      keywords: ["SQL", "NoSQL"]
+    - name: DevOps
+      keywords: ["Docker", "Git"]
+    - name: Altro
+      keywords: ["Internet delle Cose"]
+
+- title: Interessi
+  type: nested_list
+  contents:
+    - title: Tecnologia
+      items:
+        - Intelligenza Artificiale
+        - Machine Learning
+        - Sviluppo Software
+        - IoT
+    - title: Programmazione
+      items:
+        - Sviluppo Web
+        - Cloud Computing
+        - DevOps

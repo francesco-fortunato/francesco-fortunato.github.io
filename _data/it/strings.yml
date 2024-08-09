@@ -1,0 +1,144 @@
+archive_category: un archivio di post di questa categoria
+archive_tag: un archivio di post con questo tag
+archive_year: un archivio di post di quest\'anno
+blog:
+  navigation_title: blog
+categories:
+  fun: divertimento
+  work: lavoro
+citation:
+  bibtex: "o come una citazione in BibTeX:"
+  introduction: "Se hai trovato utile questo contenuto, per favore cita come:"
+contact_note: Puoi anche aggiungere una piccola nota su quale di questi metodi è il migliore per contattarti.
+cv:
+  address: Indirizzo
+  area: Area
+  awarder: Premio assegnato da
+  awards: Premi
+  basics: Informazioni generali
+  certificates: Certificati
+  city: Città
+  countryCode: Codice del paese
+  courses: Corsi
+  date: Data
+  education: Istruzione
+  email: Email
+  endDate: Data di fine
+  fluency: Fluency
+  highlights: Punti salienti
+  image: Immagine
+  institution: Istituzione
+  interests: Interessi
+  issuer: Emittente
+  keywords: Parole chiave
+  label: Titolo
+  language: Lingua
+  languages: Lingue
+  level: Livello
+  location: Posizione
+  name: Nome
+  network: Rete
+  organization: Organizzazione
+  phone: Telefono
+  position: Posizione
+  postalCode: Codice postale
+  profiles: Profili
+  projects: Progetti
+  publications: Pubblicazioni
+  publisher: Editore
+  reference: Riferimento
+  references: Riferimenti
+  region: Regione
+  releaseDate: Data di pubblicazione
+  score: Punteggio
+  skills: Competenze
+  startDate: Data di inizio
+  studyType: Tipo di studio
+  summary: Sommario
+  table_of_contents: Indice
+  title: Titolo
+  url: Url
+  username: Nome utente
+  volunteer: Volontario
+  work: Lavoro
+footer_text: >
+  Sviluppato in <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> con il tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  Ospitato da <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Foto di <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+latest_posts: ultimi post
+months:
+  long:
+    january: Gennaio
+    february: Febbraio
+    march: Marzo
+    april: Aprile
+    may: Maggio
+    june: Giugno
+    july: Luglio
+    august: Agosto
+    september: Settembre
+    october: Ottobre
+    november: Novembre
+    december: Dicembre
+  short:
+    january: Gen
+    february: Feb
+    march: Mar
+    april: Apr
+    may: Mag
+    june: Giu
+    july: Lug
+    august: Ago
+    september: Set
+    october: Ott
+    november: Nov
+    december: Dic
+news: novità
+newsletter:
+  back: Indietro
+  error: "Oops! Qualcosa è andato storto, per favore riprova."
+  subscribe: iscriviti
+  subscribed: "Ti sei iscritto con successo alla newsletter."
+  subscribe_to_receive: "Iscriviti per essere informato sui futuri articoli:"
+  too_many_signups: "Troppe iscrizioni, per favore riprova più tardi"
+  wait: "Attendere prego..."
+no_news: Nessuna novità al momento...
+pagination:
+  newer: Recenti
+  older: Vecchi
+  page: pagina
+post:
+  created_in: Creato in
+  created_by: di
+  last_updated: ultima aggiornamento il
+references: Riferimenti
+related_posts:
+  description: "Ecco alcuni articoli correlati che potrebbero piacerti:"
+  title: Ti è Piaciuto Leggere Questo Articolo?
+search:
+  dark_theme:
+    description: Cambia il tema del sito in scuro
+    title: Cambia tema in scuro
+  dropdown: Altre opzioni
+  email: Invia un\'email
+  footer:
+    close: per chiudere
+    navigate: per navigare
+    parent: torna un livello sopra
+    select: per selezionare
+  languages: Lingue
+  light_theme:
+    description: Cambia il tema del sito in chiaro
+    title: Cambia tema in chiaro
+  navigation: Menu di navigazione
+  news: Novità
+  placeholder: Digita per iniziare la ricerca
+  posts: Post
+  projects: Progetti
+  socials: Social
+  system_theme:
+    description: Cambia il tema del sito in base alle impostazioni del sistema
+    title: Usa il tema di sistema
+  theme: Tema
+selected_publications: pubblicazioni selezionate
+site_description: Un tema semplice per accademici. Basato sul design del [*folio](https://github.com/bogoli/-folio).

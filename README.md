@@ -409,7 +409,7 @@ Currently, we run some checks to ensure that the code quality and generated site
 
 We decided to keep `Axe` runs manual because fixing the issues are not straightforward and might be hard for people without web development knowledge.
 
-Another important command is sudo docker run -p 8080:8080 --name jekyll -v "${PWD}:/srv/jekyll" amirpourmand/al-folio:latest
+Another important command is sudo docker run -p 8080:8080 --name jekyll -v "${PWD}:/srv/jekyll" georgegca/multi-language-al-folio:latest
 
 ## FAQ
 
