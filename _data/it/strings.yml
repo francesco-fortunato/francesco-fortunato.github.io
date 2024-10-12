@@ -64,7 +64,6 @@ cv:
 footer_text: >
   Sviluppato in <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> con il tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
   Ospitato da <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Foto di <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 latest_posts: ultimi post
 months:
   long:
@@ -108,9 +107,9 @@ pagination:
   older: Vecchi
   page: pagina
 post:
-  created_in: Creato in
+  created_in: Creato il
   created_by: di
-  last_updated: ultima aggiornamento il
+  last_updated: ultimo aggiornamento il
 references: Riferimenti
 related_posts:
   description: "Ecco alcuni articoli correlati che potrebbero piacerti:"

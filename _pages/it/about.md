@@ -19,7 +19,7 @@ selected_papers: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Sono Francesco Fortunato, un neolaureato con una Laurea Magistrale in Ingegneria Informatica conseguita presso la Sapienza Università di Roma. Ho iniziato il mio percorso accademico con una Laurea Triennale in Ingegneria Informatica e Automatica nello stesso ateneo.
+Sono Francesco Fortunato, laureando nel corso di laurea magistrale in Engineering in Computer Science presso la Sapienza Università di Roma. Ho iniziato il mio percorso accademico con una laurea triennale in Ingegneria Informatica e Automatica, conseguita presso lo stesso ateneo.
 
 Le mie aree di competenza e interesse includono l'Internet of Things (IoT), le telecomunicazioni, lo sviluppo software, il machine learning e l'intelligenza artificiale. Sono appassionato di ideare soluzioni innovative e affrontare sfide complesse attraverso l'applicazione di tecniche avanzate di programmazione.
 
