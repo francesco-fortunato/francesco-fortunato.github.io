@@ -88,7 +88,7 @@ Now, you may think: if I have just three moves inside Atari (left, right, still)
 
 ## Atari Breakout Environment Wrappers
 
-To help the agent interact with the environment effectively, we use several **Atari wrappers**. These wrappers preprocess the frames, manage game resets, and handle special cases like losing a life or needing to press "Fire" to start the game. Some of the nost important wrappers we use to ensure the game environment includes EpisodicLifeEnv to treat life loss as episode end (we have three lifes), MaxAndSkipEnv to skip unnecessary frames, and FrameStack to maintain temporal continuity by stacking multiple frames.
+To help the agent interact with the environment effectively, we use several **Atari wrappers**. These wrappers preprocess the frames, manage game resets, and handle special cases like losing a life or needing to press "Fire" to start the game. Some of the most important wrappers we use to ensure the game environment includes EpisodicLifeEnv to treat life loss as episode end (we have three lifes), MaxAndSkipEnv to skip unnecessary frames, and FrameStack to maintain temporal continuity by stacking multiple frames.
 
 ```python
 # Use the Baseline Atari environment because of Deepmind helper functions
