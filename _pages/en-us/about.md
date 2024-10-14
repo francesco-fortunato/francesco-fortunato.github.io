@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Via Monte Sant'Angelo, 19</p>
-    <p>Castrovillari, Cosenza, Italy</p>
+    <p>Via Asinari di San Marzano, 28</p>
+    <p>Roma, RM, Italy</p>
     <p>+39 348 304 4377</p>
     <p><a href="mailto:francesco.fortunato1999@gmail.com">francesco.fortunato1999@gmail.com</a></p>
 
