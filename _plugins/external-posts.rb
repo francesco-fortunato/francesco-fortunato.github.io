@@ -53,18 +53,42 @@ module ExternalPosts
       doc.data['description'] = content[:summary]
       doc.data['date'] = content[:published]
       doc.data['redirect'] = url
+    
+      # Add tags if they exist
+      if content[:tags]
+        doc.data['tags'] = content[:tags]
+        puts "Added tags: #{content[:tags]} to post"
+      else
+        puts "No tags provided for post"
+      end
+    
+      # Add categories if they exist
+      if content[:categories]
+        doc.data['categories'] = content[:categories]
+        puts "Added categories: #{content[:categories]} to post"
+      else
+        puts "No categories provided for post"
+      end
+    
+      puts "Creating document at path: #{path} with title: #{content[:title]}"
+    
       site.collections['posts'].docs << doc
     end
-
+                
     def fetch_from_urls(site, src)
       src['posts'].each do |post|
         puts "...fetching #{post['url']}"
         content = fetch_content_from_url(post['url'])
         content[:published] = parse_published_date(post['published_date'])
+    
+        # Include tags and categories from the post
+        content[:tags] = post['tags'] if post['tags']
+        content[:categories] = post['categories'] if post['categories']
+    
         create_document(site, src['name'], post['url'], content)
       end
     end
-
+    
     def parse_published_date(published_date)
       case published_date
       when String

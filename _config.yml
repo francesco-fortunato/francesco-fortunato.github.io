@@ -171,8 +171,12 @@ external_sources:
     posts:
       - url: https://hackster.io/francescofortunato1999/a-low-power-fire-alert-system-application-with-riot-os-cdb669
         published_date: 2023-06-27
+        tags: ["IoT", "RIOT OS", "Fire Alert System"]
+        categories: ["tutorial"]
       - url: https://www.hackster.io/paat/a-low-power-geofencing-application-with-riot-os-and-iot-lab-8825f0
         published_date: 2023-06-26
+        tags: ["IoT", "RIOT OS", "Geofencing"]
+        categories: ["tutorial"]
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -304,8 +308,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["IoT", "Reinforcement Learning", "Deep Learning"] # these tags will be displayed on the front page of your blog
+display_categories: ["tutorial"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

@@ -3,8 +3,8 @@ layout: post
 title: How to Build a DQN to Play Atari Breakout (and Actually Get Good Results!)
 date: 2024-10-01 15:00:00
 description: An easy-to-follow guide on implementing a Deep Q-Network (DQN) for Atari Breakout.
-tags: DQN, Atari, Reinforcement Learning, Deep Learning
-categories: tutorials
+tags: ["DQN", "Atari", "Reinforcement Learning", "Deep Learning"]
+categories: tutorial
 pseudocode: true
 ---
 
