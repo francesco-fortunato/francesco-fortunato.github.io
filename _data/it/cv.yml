@@ -79,11 +79,15 @@
     - name: Cloud Computing
       keywords: ["Amazon Web Services", "Google Cloud"]
     - name: Basi di Dati
-      keywords: ["SQL", "NoSQL"]
+      keywords: ["MySQL", "PostgreSQL", "NoSQL", "CouchDB", "MariaDB", "Neo4j"]
     - name: DevOps
-      keywords: ["Docker", "Git"]
-    - name: Altro
-      keywords: ["Internet delle Cose"]
+      keywords: ["Docker", "Git", "Docker Compose"]
+    - name: Machine Learning e Data Science
+      keywords: ["Keras", "TensorFlow", "Scikit-learn", "PyTorch", "Pandas", "Matplotlib", "Seaborn", "d3.js"]
+    - name: Internet delle Cose
+      keywords: ["LoRaWAN", "Wi-Fi", "TCP", "UDP", "RIOT OS", "ESP32"]
+    - name: Altre Competenze
+      keywords: ["Scripting (Bash, PowerShell)", "LaTeX", "Markdown", "Microsoft Office"]
 
 - title: Interessi
   type: nested_list

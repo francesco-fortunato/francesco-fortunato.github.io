@@ -6,7 +6,7 @@
     "email": "francesco.fortunato1999@gmail.com",
     "phone": "+39 348 304 4377",
     "url": "https://francesco-fortunato.github.io",
-    "summary": "A recent graduate with a Master's Degree in Engineering in Computer Science from Sapienza Università di Roma, with a deep passion for the Internet of Things, telecommunications, software development, machine learning, and artificial intelligence.",
+    "summary": "A master's student in Engineering in Computer Science @ Sapienza Università di Roma, with a deep passion for the Internet of Things, telecommunications, software development, machine learning, and artificial intelligence.",
     "location": {
       "address": "Via Asinari di San Marzano, 28",
       "postalCode": "00159",
@@ -107,17 +107,27 @@
     {
       "name": "Databases",
       "level": "",
-      "keywords": ["SQL", "NoSQL"]
+      "keywords": ["MySQL", "PostgreSQL", "NoSQL", "CouchDB", "MariaDB", "Neo4j"]
     },
     {
       "name": "DevOps",
       "level": "",
-      "keywords": ["Docker", "Git"]
+      "keywords": ["Docker", "Git", "Docker Compose"]
     },
     {
-      "name": "Other",
+      "name": "Machine Learning and Data Science",
       "level": "",
-      "keywords": ["Internet of Things"]
+      "keywords": ["Keras", "TensorFlow", "Scikit-learn", "PyTorch", "Pandas", "Matplotlib", "Seaborn", "d3.js"]
+    },
+    {
+      "name": "Internet of Things",
+      "level": "",
+      "keywords": ["LoRaWAN", "Wi-Fi", "TCP", "UDP", "RIOT OS", "ESP32"]
+    },
+    {
+      "name": "Other Skills",
+      "level": "",
+      "keywords": ["Scripting (Bash, PowerShell)", "LaTeX", "Markdown", "Microsoft Office"]
     }
   ],
   "languages": [
