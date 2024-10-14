@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -167,12 +167,12 @@ giscus:
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: hackster.io
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://hackster.io/francescofortunato1999/a-low-power-fire-alert-system-application-with-riot-os-cdb669
+        published_date: 2023-06-27
+      - url: https://www.hackster.io/paat/a-low-power-geofencing-application-with-riot-os-and-iot-lab-8825f0
+        published_date: 2023-06-26
 
 # -----------------------------------------------------------------------------
 # Newsletter

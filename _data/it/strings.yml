@@ -62,8 +62,8 @@ cv:
   volunteer: Volontario
   work: Lavoro
 footer_text: >
-  Sviluppato in <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> con il tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Ospitato da <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 latest_posts: ultimi post
 months:
   long:
@@ -113,7 +113,7 @@ post:
 references: Riferimenti
 related_posts:
   description: "Ecco alcuni articoli correlati che potrebbero piacerti:"
-  title: Ti è Piaciuto Leggere Questo Articolo?
+  title: Ti è Piaciuto Questo Articolo?
 search:
   dark_theme:
     description: Cambia il tema del sito in scuro
@@ -140,4 +140,4 @@ search:
     title: Usa il tema di sistema
   theme: Tema
 selected_publications: pubblicazioni selezionate
-site_description: Un tema semplice per accademici. Basato sul design del [*folio](https://github.com/bogoli/-folio).
+site_description: Francesco Fortunato - MSc in Engineering in Computer Science
