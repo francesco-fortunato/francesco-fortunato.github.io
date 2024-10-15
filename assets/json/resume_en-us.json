@@ -156,6 +156,14 @@
   ],
   "projects": [
     {
+      "name": "GEVIS - Gene Expression Vis",
+      "summary": "A web-application based dashboard for conducting differential gene expression analysis and visualizing results, facilitating interactive visualization and in-depth exploration of gene expression data.",
+      "highlights": ["Interactive gene expression analysis", "Dashboard for data visualization"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/francesco-fortunato/GEVIS"
+    },
+    {
       "name": "PaaT - Pet as a Thing",
       "summary": "An IoT-based pet tracking system utilizing an ESP32 Heltec LoRa v2 and GPS module to track pets' movements. This system allows pet owners to monitor their pets' location, view their movement history, and receive alerts when they leave a designated area.",
       "highlights": ["IoT-based tracking", "ESP32 Heltec LoRa v2", "GPS Module"],
